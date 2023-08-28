@@ -277,6 +277,11 @@ public class Spring5Test {
         Toolkit.getDefaultToolkit().beep();
     }
 
+    @Test
+    public void test17() {
+        System.out.println("hello git");
+    }
+
 }
 
 enum Size {

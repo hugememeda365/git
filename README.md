@@ -1,2 +1,2 @@
 # git
-git学习专用
+hello git
